@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="hint">Поиск заметок</string>
+    <string name="plus">+</string>
+    <string name="number">0 символов</string>
+    <string name="loadimage">loadImage</string>
+    <string name="add_image">Add Image</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="delete_description">Are you sure you want to delete this note?</string>
+    <string-array name="toolbar">
+        <item>Заметки</item>
+    </string-array>
+</resources>
